@@ -9,6 +9,7 @@ Author: Litao Hu (hu430@purdue.edu)
 5. imageio
 
 ## General Steps:
+0. Read "Charge_to_Observer.pdf".
 1. Install all required packages indicated above; or type "pip install -r requirements.txt" in terminal at root directory of the labeling tool.
 2. Download the datasets from the given link. Put the folders in the root directory of the experiment.
 3. Open the terminal at the root directory of the experiment and run "python annotateApp.py" from the terminal to open the GUI.
