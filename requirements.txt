@@ -1,4 +1,4 @@
 Numpy
 PyQt5
-xml
+lxml
 imageio
