@@ -5,7 +5,7 @@ Author: Litao Hu (hu430@purdue.edu)
 1. Python 3.5+
 2. Numpy
 3. PyQt5
-4. xml
+4. lxml
 5. imageio
 
 ## General Steps:
