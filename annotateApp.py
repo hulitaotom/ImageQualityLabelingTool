@@ -302,7 +302,7 @@ class annotateApp(QMainWindow, Ui_MainWindow):
                 
             # filter out small regions
             threH, threW, threA = 40, 40, 2000
-            if (right-left <= threW or bot-top <= threH) and (right-left)*(bot-top) <= thre:
+            if (right-left <= threW or bot-top <= threH) and (right-left)*(bot-top) <= threA:
                 continue
                 
             self.ROI_poly.append(poly)
